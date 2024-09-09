@@ -14,11 +14,11 @@ Dim Records As String
 ' Get client detaols from the textboxes
 ' To so this Nathan used an Array dataset to create the clientlistr.
 
-clientDetails(0) = txtName.Text
-clientDetails(1) = txtSurName.Text
-clientDetails(2) = txtAge.Text
-clientDetails(3) = txtProfession.Text
-clientDetails(4) = txtLocation.Text
+clientDetails(0) = txtName.Text()
+clientDetails(1) = txtSurName.Text()
+clientDetails(2) = txtAge.Text()
+clientDetails(3) = txtProfession.Text()
+clientDetails(4) = txtLocation.Text() 
 clientDetails(5) = DateTime.Now.ToString()
 
 'Nathan created a function that will allow the programe to create a txt file and Write client inpiut  data inthe file.
@@ -70,5 +70,4 @@ Catch ex As Exception
 MessageBox.Show("Error, failed to create backup" & ex.Message)
 End Try
 End Sub
-End Class
 End Class
