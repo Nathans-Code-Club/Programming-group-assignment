@@ -1,0 +1,16 @@
+C:\Users\Nathan\Desktop\Education\customer_record_system\bin\Debug\net8.0-windows\customer_record_system.exe
+C:\Users\Nathan\Desktop\Education\customer_record_system\bin\Debug\net8.0-windows\customer_record_system.deps.json
+C:\Users\Nathan\Desktop\Education\customer_record_system\bin\Debug\net8.0-windows\customer_record_system.runtimeconfig.json
+C:\Users\Nathan\Desktop\Education\customer_record_system\bin\Debug\net8.0-windows\customer_record_system.dll
+C:\Users\Nathan\Desktop\Education\customer_record_system\bin\Debug\net8.0-windows\customer_record_system.pdb
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.Form1.resources
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.vbproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.AssemblyInfo.vb
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.dll
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\refint\customer_record_system.dll
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.pdb
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\customer_record_system.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\Education\customer_record_system\obj\Debug\net8.0-windows\ref\customer_record_system.dll
