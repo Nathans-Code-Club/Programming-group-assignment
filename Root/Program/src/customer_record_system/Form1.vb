@@ -1,9 +1,16 @@
 ﻿Imports System.IO
 
 Public Class Form1
-    Private filePath As String = "C:\Users\Nathan\Desktop\Education\customer_record_system\Container\customerRecords.txt"
-    Private backupPath As String = "C:\Users\Nathan\Desktop\Education\customer_record_system\Container\customerRecords_backup.txt"
-
+    
+    Public Shared Sub Main()
+        Dim path1 As String = "c:\Container\customerRecords.txt"
+        Dim path2 As String = "c:\Container\customerRecords"
+        Dim path3 As String = "Container"
+        
+        Dim path4 As String = "c:\Container\customerRecords_backup.txt"
+        Dim path5 As String = "c:\Container\customerRecords_backup"
+        Dim path6 As String = "Container"
+        
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
         Try
             Dim name As String = txtName.Text
@@ -21,7 +28,7 @@ Public Class Form1
             End If
 
             Dim record As String = $"{name},{surname},{age},{occupation},{location},{dateTime}"
-            File.AppendAllText(filePath, record & Environment.NewLine)
+            File.AppendAllText(path2, record & Environment.NewLine)
 
             MessageBox.Show("Record saved successfully.")
         Catch ex As Exception
@@ -31,9 +38,9 @@ Public Class Form1
 
     Private Sub btnRead_Click(sender As Object, e As EventArgs) Handles btnRead.Click
         Try
-            If File.Exists(filePath) Then
+            If File.Exists(path2) Then
                 rtbDisplay.Clear()
-                Dim records As String() = File.ReadAllLines(filePath)
+                Dim records As String() = File.ReadAllLines(path2)
                 For Each record As String In records
                     rtbDisplay.AppendText(record & Environment.NewLine)
                 Next
@@ -60,9 +67,9 @@ Public Class Form1
 
     Private Sub btnBackup_Click(sender As Object, e As EventArgs) Handles btnSave.Click
         Try
-            If File.Exists(filePath) Then
-                Directory.CreateDirectory(Path.GetDirectoryName(backupPath))
-                File.Copy(filePath, backupPath, True)
+            If File.Exists(path2) Then
+                Directory.CreateDirectory(Path.GetDirectoryName(path4))
+                File.Copy(path2, path4, True)
                 MessageBox.Show("Backup created successfully.")
             Else
                 MessageBox.Show("No file to back up.")
