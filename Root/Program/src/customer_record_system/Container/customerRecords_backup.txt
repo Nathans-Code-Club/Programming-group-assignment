@@ -1,2 +1,0 @@
-Name,e,e,e,e,0
-Name,d,d,d,d,0
