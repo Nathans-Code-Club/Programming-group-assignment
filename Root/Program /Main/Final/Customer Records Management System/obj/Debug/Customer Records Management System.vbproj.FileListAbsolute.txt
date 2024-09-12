@@ -1,0 +1,24 @@
+C:\Users\Nathan\Desktop\Customer Records Management System\bin\Debug\Customer Records Management System.exe.config
+C:\Users\Nathan\Desktop\Customer Records Management System\bin\Debug\Customer Records Management System.exe
+C:\Users\Nathan\Desktop\Customer Records Management System\bin\Debug\Customer Records Management System.pdb
+C:\Users\Nathan\Desktop\Customer Records Management System\bin\Debug\Customer Records Management System.xml
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer_Records_Management_System.Form1.resources
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer_Records_Management_System.Resources.resources
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.exe
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.xml
+C:\Users\Nathan\Desktop\Customer Records Management System\obj\Debug\Customer Records Management System.pdb
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\bin\Debug\Customer Records Management System.exe.config
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\bin\Debug\Customer Records Management System.exe
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\bin\Debug\Customer Records Management System.pdb
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\bin\Debug\Customer Records Management System.xml
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer_Records_Management_System.Form1.resources
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer_Records_Management_System.Resources.resources
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.exe
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.xml
+C:\Users\Nathan\Desktop\Projects\Customer Records Management System\obj\Debug\Customer Records Management System.pdb
